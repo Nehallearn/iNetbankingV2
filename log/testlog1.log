@@ -1,0 +1,243 @@
+2020-12-17 23:02:36,700 [main] INFO eBanking - URL is Opened
+2020-12-17 23:02:37,458 [main] INFO eBanking - User Name entered
+2020-12-17 23:02:39,859 [main] INFO eBanking - Password entered
+2020-12-17 23:02:41,379 [main] INFO eBanking - submit button clicked
+2020-12-17 23:02:41,623 [main] INFO eBanking - Page title is fine
+2020-12-18 17:24:10,616 [main] INFO eBanking - URL is Opened
+2020-12-18 17:24:13,749 [main] INFO eBanking - User Name entered
+2020-12-18 17:24:14,093 [main] INFO eBanking - Password entered
+2020-12-18 17:24:15,969 [main] INFO eBanking - submit button clicked
+2020-12-18 17:24:16,209 [main] INFO eBanking - Page title is fine
+2020-12-18 18:31:43,297 [main] INFO eBanking - URL is Opened
+2020-12-18 18:31:45,865 [main] INFO eBanking - User Name entered
+2020-12-18 18:31:49,639 [main] INFO eBanking - Password entered
+2020-12-18 18:31:51,606 [main] INFO eBanking - submit button clicked
+2020-12-18 18:31:53,338 [main] INFO eBanking - Page title is fine
+2020-12-18 18:58:01,516 [main] INFO eBanking - URL is Opened
+2020-12-18 18:58:02,901 [main] INFO eBanking - User Name entered
+2020-12-18 18:58:03,701 [main] INFO eBanking - Password entered
+2020-12-18 18:58:07,476 [main] INFO eBanking - submit button clicked
+2020-12-18 18:58:07,512 [main] INFO eBanking - Page title is fine
+2020-12-18 19:09:44,696 [main] INFO eBanking - URL is Opened
+2020-12-18 19:09:47,757 [main] INFO eBanking - User Name entered
+2020-12-18 19:09:50,172 [main] INFO eBanking - Password entered
+2020-12-18 19:09:50,806 [main] INFO eBanking - submit button clicked
+2020-12-18 20:44:16,107 [main] INFO eBanking - URL is Opened
+2020-12-18 20:44:20,704 [main] INFO eBanking - User Name entered
+2020-12-18 20:44:21,162 [main] INFO eBanking - Password entered
+2020-12-18 20:44:22,938 [main] INFO eBanking - submit button clicked
+2020-12-18 20:46:29,211 [main] INFO eBanking - URL is Opened
+2020-12-18 20:46:31,812 [main] INFO eBanking - User Name entered
+2020-12-18 20:46:33,832 [main] INFO eBanking - Password entered
+2020-12-18 20:46:35,061 [main] INFO eBanking - submit button clicked
+2020-12-19 15:08:25,272 [main] INFO eBanking - URL is Opened
+2020-12-19 15:08:28,167 [main] INFO eBanking - User Name entered
+2020-12-19 15:08:28,617 [main] INFO eBanking - Password entered
+2020-12-19 15:08:29,900 [main] INFO eBanking - submit button clicked
+2020-12-19 15:08:29,924 [main] INFO eBanking - Page title is fine
+2020-12-19 15:47:51,769 [main] INFO eBanking - URL is Opened
+2020-12-19 15:47:54,655 [main] INFO eBanking - User Name entered
+2020-12-19 15:47:55,005 [main] INFO eBanking - Password entered
+2020-12-19 15:47:56,639 [main] INFO eBanking - submit button clicked
+2020-12-19 17:29:06,597 [main] INFO eBanking - URL is Opened
+2020-12-19 17:29:09,035 [main] INFO eBanking - User Name entered
+2020-12-19 17:29:09,359 [main] INFO eBanking - Password entered
+2020-12-19 17:29:10,789 [main] INFO eBanking - submit button clicked
+2020-12-19 17:29:10,998 [main] INFO eBanking - Page title is fine
+2020-12-19 17:29:20,414 [main] INFO eBanking - URL is Opened
+2020-12-19 17:29:28,750 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:29:29,107 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:29:30,783 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:29:33,209 [main] INFO eBanking - Accepted alert after logout
+2020-12-19 17:29:35,490 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:29:35,976 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:29:36,880 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:29:36,916 [main] INFO eBanking - Accepted alert
+2020-12-19 17:29:39,797 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:29:40,062 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:29:40,911 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:29:40,941 [main] INFO eBanking - Accepted alert
+2020-12-19 17:36:36,376 [main] INFO eBanking - URL is Opened
+2020-12-19 17:36:43,412 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:36:43,793 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:36:46,176 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:36:48,871 [main] INFO eBanking - Accepted alert after logout
+2020-12-19 17:36:51,691 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:36:52,047 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:36:52,946 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:36:52,978 [main] INFO eBanking - Accepted alert
+2020-12-19 17:36:55,563 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 17:36:56,131 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 17:36:56,773 [main] INFO eBanking - click on submit for DD test
+2020-12-19 17:36:56,792 [main] INFO eBanking - Accepted alert
+2020-12-19 18:43:43,581 [main] INFO eBanking - URL is Opened
+2020-12-19 18:43:46,404 [main] INFO eBanking - User Name entered
+2020-12-19 18:43:46,820 [main] INFO eBanking - Password entered
+2020-12-19 18:43:48,388 [main] INFO eBanking - submit button clicked
+2020-12-19 18:43:53,323 [main] INFO eBanking - New Customer addition page opened
+2020-12-19 18:43:53,324 [main] INFO eBanking - starting input for new customer
+2020-12-19 18:44:02,864 [main] INFO eBanking - All Customer details provided
+2020-12-19 18:44:04,168 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-19 18:44:07,810 [main] INFO eBanking - Vrified successfully
+2020-12-19 18:45:28,942 [main] INFO eBanking - URL is Opened
+2020-12-19 18:45:31,429 [main] INFO eBanking - User Name entered
+2020-12-19 18:45:31,746 [main] INFO eBanking - Password entered
+2020-12-19 18:45:33,578 [main] INFO eBanking - submit button clicked
+2020-12-19 18:45:38,028 [main] INFO eBanking - New Customer addition page opened
+2020-12-19 18:45:38,029 [main] INFO eBanking - starting input for new customer
+2020-12-19 18:45:47,377 [main] INFO eBanking - All Customer details provided
+2020-12-19 18:45:48,900 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-19 18:45:52,448 [main] INFO eBanking - Vrification failed
+2020-12-19 18:48:27,669 [main] INFO eBanking - URL is Opened
+2020-12-19 18:48:30,656 [main] INFO eBanking - User Name entered
+2020-12-19 18:48:31,027 [main] INFO eBanking - Password entered
+2020-12-19 18:48:32,538 [main] INFO eBanking - submit button clicked
+2020-12-19 18:48:33,938 [main] INFO eBanking - Page title is fine
+2020-12-19 18:48:43,264 [main] INFO eBanking - URL is Opened
+2020-12-19 18:48:48,231 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:48:48,592 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:48:49,358 [main] INFO eBanking - click on submit for DD test
+2020-12-19 18:49:52,948 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:49:54,768 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:49:55,800 [main] INFO eBanking - click on submit for DD test
+2020-12-19 18:49:55,835 [main] INFO eBanking - Accepted alert
+2020-12-19 18:49:57,052 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:49:58,268 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:49:58,978 [main] INFO eBanking - click on submit for DD test
+2020-12-19 18:49:59,009 [main] INFO eBanking - Accepted alert
+2020-12-19 18:50:09,316 [main] INFO eBanking - URL is Opened
+2020-12-19 18:50:11,949 [main] INFO eBanking - User Name entered
+2020-12-19 18:50:12,307 [main] INFO eBanking - Password entered
+2020-12-19 18:50:14,046 [main] INFO eBanking - submit button clicked
+2020-12-19 18:50:18,528 [main] INFO eBanking - New Customer addition page opened
+2020-12-19 18:50:18,529 [main] INFO eBanking - starting input for new customer
+2020-12-19 18:50:28,180 [main] INFO eBanking - All Customer details provided
+2020-12-19 18:50:29,865 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-19 18:50:33,126 [main] INFO eBanking - Vrified successfully
+2020-12-19 18:55:34,255 [main] INFO eBanking - URL is Opened
+2020-12-19 18:55:40,088 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:55:41,446 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:55:42,261 [main] INFO eBanking - click on submit for DD test
+2020-12-19 18:55:45,238 [main] INFO eBanking - Accepted alert after logout
+2020-12-19 18:55:47,523 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:55:48,106 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:55:49,990 [main] INFO eBanking - click on submit for DD test
+2020-12-19 18:55:50,067 [main] INFO eBanking - Accepted alert
+2020-12-19 18:55:51,635 [main] INFO eBanking - User Name entered via Excel File
+2020-12-19 18:55:53,298 [main] INFO eBanking - Password entered via Excel File
+2020-12-19 18:57:56,416 [main] INFO eBanking - click on submit for DD test
+2020-12-20 13:48:06,752 [main] INFO eBanking - URL is Opened
+2020-12-20 13:48:09,701 [main] INFO eBanking - User Name entered
+2020-12-20 13:48:10,161 [main] INFO eBanking - Password entered
+2020-12-20 13:48:11,790 [main] INFO eBanking - submit button clicked
+2020-12-20 13:48:12,036 [main] INFO eBanking - Page title is fine
+2020-12-20 13:48:22,027 [main] INFO eBanking - URL is Opened
+2020-12-20 13:48:24,730 [main] INFO eBanking - User Name entered
+2020-12-20 13:48:25,078 [main] INFO eBanking - Password entered
+2020-12-20 13:48:27,906 [main] INFO eBanking - submit button clicked
+2020-12-20 13:48:34,084 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 13:48:34,085 [main] INFO eBanking - starting input for new customer
+2020-12-20 13:48:48,151 [main] INFO eBanking - All Customer details provided
+2020-12-20 13:48:50,143 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 13:48:53,930 [main] INFO eBanking - Vrified successfully
+2020-12-20 14:15:32,027 [main] INFO eBanking - URL is Opened
+2020-12-20 14:15:34,689 [main] INFO eBanking - User Name entered
+2020-12-20 14:15:35,223 [main] INFO eBanking - Password entered
+2020-12-20 14:15:38,777 [main] INFO eBanking - submit button clicked
+2020-12-20 14:15:51,197 [main] INFO eBanking - URL is Opened
+2020-12-20 14:15:54,023 [main] INFO eBanking - User Name entered
+2020-12-20 14:15:54,389 [main] INFO eBanking - Password entered
+2020-12-20 14:15:56,593 [main] INFO eBanking - submit button clicked
+2020-12-20 14:16:01,621 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 14:16:01,623 [main] INFO eBanking - starting input for new customer
+2020-12-20 14:16:11,433 [main] INFO eBanking - All Customer details provided
+2020-12-20 14:16:13,028 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 14:16:17,482 [main] INFO eBanking - Vrified successfully
+2020-12-20 14:20:41,552 [main] INFO eBanking - URL is Opened
+2020-12-20 14:20:44,299 [main] INFO eBanking - User Name entered
+2020-12-20 14:20:44,664 [main] INFO eBanking - Password entered
+2020-12-20 14:20:46,411 [main] INFO eBanking - submit button clicked
+2020-12-20 14:20:49,732 [main] INFO eBanking - Page title is fine
+2020-12-20 14:20:59,471 [main] INFO eBanking - URL is Opened
+2020-12-20 14:21:02,410 [main] INFO eBanking - User Name entered
+2020-12-20 14:21:02,742 [main] INFO eBanking - Password entered
+2020-12-20 14:21:04,276 [main] INFO eBanking - submit button clicked
+2020-12-20 14:21:10,347 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 14:21:10,348 [main] INFO eBanking - starting input for new customer
+2020-12-20 14:21:23,824 [main] INFO eBanking - All Customer details provided
+2020-12-20 14:21:25,284 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 14:21:28,728 [main] INFO eBanking - Vrified successfully
+2020-12-20 14:30:03,158 [main] INFO eBanking - URL is Opened
+2020-12-20 14:30:06,435 [main] INFO eBanking - User Name entered
+2020-12-20 14:30:06,807 [main] INFO eBanking - Password entered
+2020-12-20 14:30:08,901 [main] INFO eBanking - submit button clicked
+2020-12-20 14:30:13,494 [main] INFO eBanking - Page title is fine
+2020-12-20 14:30:23,136 [main] INFO eBanking - URL is Opened
+2020-12-20 14:30:25,748 [main] INFO eBanking - User Name entered
+2020-12-20 14:30:26,135 [main] INFO eBanking - Password entered
+2020-12-20 14:30:27,785 [main] INFO eBanking - submit button clicked
+2020-12-20 14:30:32,593 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 14:30:32,597 [main] INFO eBanking - starting input for new customer
+2020-12-20 14:30:41,876 [main] INFO eBanking - All Customer details provided
+2020-12-20 14:30:43,108 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 14:30:46,763 [main] INFO eBanking - Vrified successfully
+2020-12-20 17:38:39,505 [main] INFO eBanking - URL is Opened
+2020-12-20 17:38:42,897 [main] INFO eBanking - User Name entered
+2020-12-20 17:38:44,573 [main] INFO eBanking - Password entered
+2020-12-20 17:38:45,532 [main] INFO eBanking - submit button clicked
+2020-12-20 17:38:48,590 [main] INFO eBanking - Page title is fine
+2020-12-20 17:50:02,255 [main] INFO eBanking - URL is Opened
+2020-12-20 17:50:05,355 [main] INFO eBanking - User Name entered
+2020-12-20 17:50:05,801 [main] INFO eBanking - Password entered
+2020-12-20 17:50:07,997 [main] INFO eBanking - submit button clicked
+2020-12-20 17:50:11,056 [main] INFO eBanking - Page title is fine
+2020-12-20 17:50:21,932 [main] INFO eBanking - URL is Opened
+2020-12-20 17:50:24,923 [main] INFO eBanking - User Name entered
+2020-12-20 17:50:25,319 [main] INFO eBanking - Password entered
+2020-12-20 17:50:27,866 [main] INFO eBanking - submit button clicked
+2020-12-20 17:50:33,678 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 17:50:33,679 [main] INFO eBanking - starting input for new customer
+2020-12-20 17:50:43,891 [main] INFO eBanking - All Customer details provided
+2020-12-20 17:50:45,241 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 17:50:48,549 [main] INFO eBanking - Vrified successfully
+2020-12-20 18:35:00,919 [main] INFO eBanking - URL is Opened
+2020-12-20 18:35:08,132 [main] INFO eBanking - User Name entered
+2020-12-20 18:35:10,863 [main] INFO eBanking - Password entered
+2020-12-20 18:35:52,274 [main] INFO eBanking - submit button clicked
+2020-12-20 18:35:56,198 [main] INFO eBanking - Page title is fine
+2020-12-20 18:36:52,689 [main] INFO eBanking - URL is Opened
+2020-12-20 18:36:52,854 [main] INFO eBanking - User Name entered
+2020-12-20 18:36:52,993 [main] INFO eBanking - Password entered
+2020-12-20 18:36:55,170 [main] INFO eBanking - submit button clicked
+2020-12-20 18:36:59,901 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 18:36:59,902 [main] INFO eBanking - starting input for new customer
+2020-12-20 18:37:04,418 [main] INFO eBanking - All Customer details provided
+2020-12-20 18:37:04,678 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 18:38:28,937 [main] INFO eBanking - URL is Opened
+2020-12-20 18:38:29,571 [main] INFO eBanking - User Name entered
+2020-12-20 18:38:29,726 [main] INFO eBanking - Password entered
+2020-12-20 18:38:33,437 [main] INFO eBanking - submit button clicked
+2020-12-20 18:38:39,017 [main] INFO eBanking - Page title is fine
+2020-12-20 18:39:16,041 [main] INFO eBanking - URL is Opened
+2020-12-20 18:39:16,261 [main] INFO eBanking - User Name entered
+2020-12-20 18:39:16,399 [main] INFO eBanking - Password entered
+2020-12-20 18:39:23,186 [main] INFO eBanking - submit button clicked
+2020-12-20 18:39:28,264 [main] INFO eBanking - New Customer addition page opened
+2020-12-20 18:39:28,266 [main] INFO eBanking - starting input for new customer
+2020-12-20 18:39:32,887 [main] INFO eBanking - All Customer details provided
+2020-12-20 18:39:33,013 [main] INFO eBanking - Submit button clicked for new customer addition
+2020-12-20 18:41:35,669 [main] INFO eBanking - URL is Opened
+2020-12-20 18:41:36,172 [main] INFO eBanking - User Name entered
+2020-12-20 18:41:36,333 [main] INFO eBanking - Password entered
+2020-12-20 18:41:40,572 [main] INFO eBanking - submit button clicked
+2020-12-20 18:41:43,587 [main] INFO eBanking - Page title is fine
+2020-12-20 18:42:54,578 [main] INFO eBanking - URL is Opened
+2020-12-20 18:42:55,017 [main] INFO eBanking - User Name entered
+2020-12-20 18:42:55,114 [main] INFO eBanking - Password entered
+2020-12-20 18:42:57,372 [main] INFO eBanking - submit button clicked
+2020-12-20 18:43:00,398 [main] INFO eBanking - Page title is fine
+2020-12-20 19:46:03,469 [main] INFO eBanking - URL is Opened
+2020-12-20 19:46:03,839 [main] INFO eBanking - User Name entered
+2020-12-20 19:46:03,918 [main] INFO eBanking - Password entered
+2020-12-20 19:46:06,795 [main] INFO eBanking - submit button clicked
+2020-12-20 19:46:09,832 [main] INFO eBanking - Page title is fine
